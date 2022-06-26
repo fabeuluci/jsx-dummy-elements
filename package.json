@@ -1,0 +1,14 @@
+{
+  "name": "@types/jsx-dummy-elements",
+  "version": "1.0.1",
+  "description": "TypeScript dummy elements definitions for jsx",
+  "license": "MIT",
+  "author": {
+    "name": "Fabeuluci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabeuluci/types_jsx-dummy-elements.git"
+  },
+  "types": "index.d.ts"
+}
